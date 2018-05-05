@@ -6,3 +6,5 @@
 
 ## If this is a competitive event, why are you making your code public?
 In the spirit of improving web design and development amongst all TSA members and high schoolers, we have decided to make our code public. Moreover, by making our code public, we will be able to show our different Webmaster projects each competitive season and encourage abidance to the rule put in place by the TSA stating that all design, content, and markup/code "must be the product of the current school year."
+## How did this project fare against the competition?
+After advancing from the local regional competition to the Texas State conference, this project received 8th place in finals.
